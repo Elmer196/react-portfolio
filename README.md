@@ -13,3 +13,7 @@ The navigation bar was made using router
 <img width="959" alt="react 1" src="https://user-images.githubusercontent.com/70598209/111748010-fb09ed80-885d-11eb-80ba-a93e1962d132.PNG">
 
 Heroku link: https://react-portfolio9.herokuapp.com/
+
+LinkedIN: https://www.linkedin.com/feed/
+
+GitHub: https://github.com/Elmer196
